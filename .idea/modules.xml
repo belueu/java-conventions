@@ -3,6 +3,7 @@
   <component name="ProjectModuleManager">
     <modules>
       <module fileurl="file://$PROJECT_DIR$/game-demo/game-demo.iml" filepath="$PROJECT_DIR$/game-demo/game-demo.iml" />
+      <module fileurl="file://$PROJECT_DIR$/java-access-modifiers/java-access-modifiers.iml" filepath="$PROJECT_DIR$/java-access-modifiers/java-access-modifiers.iml" />
       <module fileurl="file://$PROJECT_DIR$/java-conventions.iml" filepath="$PROJECT_DIR$/java-conventions.iml" />
       <module fileurl="file://$PROJECT_DIR$/java-game-test/java-game-test.iml" filepath="$PROJECT_DIR$/java-game-test/java-game-test.iml" />
       <module fileurl="file://$PROJECT_DIR$/java-scope/java-scope.iml" filepath="$PROJECT_DIR$/java-scope/java-scope.iml" />
