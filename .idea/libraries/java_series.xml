@@ -1,0 +1,9 @@
+<component name="libraryTable">
+  <library name="java-series">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/out/artifacts/java_series_jar/java-series.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>

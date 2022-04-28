@@ -5,6 +5,7 @@
       <module fileurl="file://$PROJECT_DIR$/game-demo/game-demo.iml" filepath="$PROJECT_DIR$/game-demo/game-demo.iml" />
       <module fileurl="file://$PROJECT_DIR$/java-conventions.iml" filepath="$PROJECT_DIR$/java-conventions.iml" />
       <module fileurl="file://$PROJECT_DIR$/java-game-test/java-game-test.iml" filepath="$PROJECT_DIR$/java-game-test/java-game-test.iml" />
+      <module fileurl="file://$PROJECT_DIR$/java-series/java-series.iml" filepath="$PROJECT_DIR$/java-series/java-series.iml" />
     </modules>
   </component>
 </project>
